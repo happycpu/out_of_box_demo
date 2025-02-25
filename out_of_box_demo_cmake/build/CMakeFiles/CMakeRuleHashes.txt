@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+a715f83efd9a312cea93c633c4824e01 iotcore/src/deps/mbedtls/mbedtls/CMakeFiles/apidoc
+e062b3f741f026064fcc4e033ba7d03d iotcore/src/deps/mbedtls/mbedtls/library/CMakeFiles/lib

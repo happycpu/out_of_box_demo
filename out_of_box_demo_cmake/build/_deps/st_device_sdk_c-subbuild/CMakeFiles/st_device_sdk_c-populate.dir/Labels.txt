@@ -1,0 +1,14 @@
+# Target labels
+ st_device_sdk_c-populate
+# Source files and their labels
+/home/happycpu/SimplicityStudio/v5_workspace/out_of_box_demo/out_of_box_demo_cmake/build/_deps/st_device_sdk_c-subbuild/CMakeFiles/st_device_sdk_c-populate
+/home/happycpu/SimplicityStudio/v5_workspace/out_of_box_demo/out_of_box_demo_cmake/build/_deps/st_device_sdk_c-subbuild/CMakeFiles/st_device_sdk_c-populate.rule
+/home/happycpu/SimplicityStudio/v5_workspace/out_of_box_demo/out_of_box_demo_cmake/build/_deps/st_device_sdk_c-subbuild/CMakeFiles/st_device_sdk_c-populate-complete.rule
+/home/happycpu/SimplicityStudio/v5_workspace/out_of_box_demo/out_of_box_demo_cmake/build/_deps/st_device_sdk_c-subbuild/st_device_sdk_c-populate-prefix/src/st_device_sdk_c-populate-stamp/st_device_sdk_c-populate-build.rule
+/home/happycpu/SimplicityStudio/v5_workspace/out_of_box_demo/out_of_box_demo_cmake/build/_deps/st_device_sdk_c-subbuild/st_device_sdk_c-populate-prefix/src/st_device_sdk_c-populate-stamp/st_device_sdk_c-populate-configure.rule
+/home/happycpu/SimplicityStudio/v5_workspace/out_of_box_demo/out_of_box_demo_cmake/build/_deps/st_device_sdk_c-subbuild/st_device_sdk_c-populate-prefix/src/st_device_sdk_c-populate-stamp/st_device_sdk_c-populate-download.rule
+/home/happycpu/SimplicityStudio/v5_workspace/out_of_box_demo/out_of_box_demo_cmake/build/_deps/st_device_sdk_c-subbuild/st_device_sdk_c-populate-prefix/src/st_device_sdk_c-populate-stamp/st_device_sdk_c-populate-install.rule
+/home/happycpu/SimplicityStudio/v5_workspace/out_of_box_demo/out_of_box_demo_cmake/build/_deps/st_device_sdk_c-subbuild/st_device_sdk_c-populate-prefix/src/st_device_sdk_c-populate-stamp/st_device_sdk_c-populate-mkdir.rule
+/home/happycpu/SimplicityStudio/v5_workspace/out_of_box_demo/out_of_box_demo_cmake/build/_deps/st_device_sdk_c-subbuild/st_device_sdk_c-populate-prefix/src/st_device_sdk_c-populate-stamp/st_device_sdk_c-populate-patch.rule
+/home/happycpu/SimplicityStudio/v5_workspace/out_of_box_demo/out_of_box_demo_cmake/build/_deps/st_device_sdk_c-subbuild/st_device_sdk_c-populate-prefix/src/st_device_sdk_c-populate-stamp/st_device_sdk_c-populate-test.rule
+/home/happycpu/SimplicityStudio/v5_workspace/out_of_box_demo/out_of_box_demo_cmake/build/_deps/st_device_sdk_c-subbuild/st_device_sdk_c-populate-prefix/src/st_device_sdk_c-populate-stamp/st_device_sdk_c-populate-update.rule

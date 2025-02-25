@@ -1,0 +1,38 @@
+{
+    "version": 6,
+    "cmakeMinimumRequired": {
+      "major": 3,
+      "minor": 25,
+      "patch": 0
+    },
+    "configurePresets": [
+      {
+        "name": "project",
+        "displayName": "Configure out_of_box_demo_2",
+        "generator": "Ninja Multi-Config",
+        "binaryDir": "${sourceDir}/build",
+        "toolchainFile": "${sourceDir}/toolchain.cmake",
+        "cacheVariables": {
+          "CMAKE_CONFIGURATION_TYPES": "default_config"
+        }
+      }
+    ],
+    "buildPresets": [
+      {
+        "name": "default_config",
+        "displayName": "Build out_of_box_demo_2",
+        "configurePreset": "project",
+        "configuration": "default_config",
+        "targets": ["out_of_box_demo_2"]
+      }
+    ],
+    "workflowPresets": [
+      {
+        "name": "project",
+        "steps": [
+          {"type": "configure", "name": "project"},
+          {"type": "build", "name": "default_config"}
+        ]
+      }
+    ]
+  }

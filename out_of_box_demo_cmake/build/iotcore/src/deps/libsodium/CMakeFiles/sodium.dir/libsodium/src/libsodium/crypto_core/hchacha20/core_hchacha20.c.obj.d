@@ -1,0 +1,31 @@
+iotcore/src/deps/libsodium/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_core/hchacha20/core_hchacha20.c.obj: \
+ /home/happycpu/SimplicityStudio/v5_workspace/out_of_box_demo/iotcore/src/deps/libsodium/libsodium/src/libsodium/crypto_core/hchacha20/core_hchacha20.c \
+ /home/happycpu/SimplicityStudio_v5/developer/toolchains/gnu_arm/12.2.rel1_2023.7/lib/gcc/arm-none-eabi/12.2.1/include/stdint.h \
+ /home/happycpu/SimplicityStudio_v5/developer/toolchains/gnu_arm/12.2.rel1_2023.7/arm-none-eabi/include/stdint.h \
+ /home/happycpu/SimplicityStudio_v5/developer/toolchains/gnu_arm/12.2.rel1_2023.7/arm-none-eabi/include/machine/_default_types.h \
+ /home/happycpu/SimplicityStudio_v5/developer/toolchains/gnu_arm/12.2.rel1_2023.7/arm-none-eabi/include/sys/features.h \
+ /home/happycpu/SimplicityStudio_v5/developer/toolchains/gnu_arm/12.2.rel1_2023.7/arm-none-eabi/include/_newlib_version.h \
+ /home/happycpu/SimplicityStudio_v5/developer/toolchains/gnu_arm/12.2.rel1_2023.7/arm-none-eabi/include/sys/_intsup.h \
+ /home/happycpu/SimplicityStudio_v5/developer/toolchains/gnu_arm/12.2.rel1_2023.7/arm-none-eabi/include/sys/_stdint.h \
+ /home/happycpu/SimplicityStudio_v5/developer/toolchains/gnu_arm/12.2.rel1_2023.7/arm-none-eabi/include/stdlib.h \
+ /home/happycpu/SimplicityStudio_v5/developer/toolchains/gnu_arm/12.2.rel1_2023.7/arm-none-eabi/include/machine/ieeefp.h \
+ /home/happycpu/SimplicityStudio_v5/developer/toolchains/gnu_arm/12.2.rel1_2023.7/arm-none-eabi/include/_ansi.h \
+ /home/happycpu/SimplicityStudio_v5/developer/toolchains/gnu_arm/12.2.rel1_2023.7/arm-none-eabi/include/newlib.h \
+ /home/happycpu/SimplicityStudio_v5/developer/toolchains/gnu_arm/12.2.rel1_2023.7/arm-none-eabi/include/sys/config.h \
+ /home/happycpu/SimplicityStudio_v5/developer/toolchains/gnu_arm/12.2.rel1_2023.7/lib/gcc/arm-none-eabi/12.2.1/include/stddef.h \
+ /home/happycpu/SimplicityStudio_v5/developer/toolchains/gnu_arm/12.2.rel1_2023.7/arm-none-eabi/include/sys/reent.h \
+ /home/happycpu/SimplicityStudio_v5/developer/toolchains/gnu_arm/12.2.rel1_2023.7/arm-none-eabi/include/_ansi.h \
+ /home/happycpu/SimplicityStudio_v5/developer/toolchains/gnu_arm/12.2.rel1_2023.7/arm-none-eabi/include/sys/_types.h \
+ /home/happycpu/SimplicityStudio_v5/developer/toolchains/gnu_arm/12.2.rel1_2023.7/arm-none-eabi/include/machine/_types.h \
+ /home/happycpu/SimplicityStudio_v5/developer/toolchains/gnu_arm/12.2.rel1_2023.7/arm-none-eabi/include/sys/lock.h \
+ /home/happycpu/SimplicityStudio_v5/developer/toolchains/gnu_arm/12.2.rel1_2023.7/arm-none-eabi/include/sys/cdefs.h \
+ /home/happycpu/SimplicityStudio_v5/developer/toolchains/gnu_arm/12.2.rel1_2023.7/arm-none-eabi/include/machine/stdlib.h \
+ /home/happycpu/SimplicityStudio_v5/developer/toolchains/gnu_arm/12.2.rel1_2023.7/arm-none-eabi/include/alloca.h \
+ /home/happycpu/SimplicityStudio/v5_workspace/out_of_box_demo/iotcore/src/deps/libsodium/libsodium/src/libsodium/include/sodium/crypto_core_hchacha20.h \
+ /home/happycpu/SimplicityStudio/v5_workspace/out_of_box_demo/iotcore/src/deps/libsodium/libsodium/src/libsodium/include/sodium/export.h \
+ /home/happycpu/SimplicityStudio_v5/developer/toolchains/gnu_arm/12.2.rel1_2023.7/lib/gcc/arm-none-eabi/12.2.1/include-fixed/limits.h \
+ /home/happycpu/SimplicityStudio/v5_workspace/out_of_box_demo/iotcore/src/deps/libsodium/libsodium/src/libsodium/include/sodium/private/common.h \
+ /home/happycpu/SimplicityStudio_v5/developer/toolchains/gnu_arm/12.2.rel1_2023.7/arm-none-eabi/include/string.h \
+ /home/happycpu/SimplicityStudio_v5/developer/toolchains/gnu_arm/12.2.rel1_2023.7/arm-none-eabi/include/sys/_locale.h \
+ /home/happycpu/SimplicityStudio_v5/developer/toolchains/gnu_arm/12.2.rel1_2023.7/arm-none-eabi/include/strings.h \
+ /home/happycpu/SimplicityStudio_v5/developer/toolchains/gnu_arm/12.2.rel1_2023.7/arm-none-eabi/include/sys/string.h
